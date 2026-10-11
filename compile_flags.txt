@@ -1,0 +1,4 @@
+-Iinclude
+-DMACOS
+-D_DARWIN_C_SOURCE
+-Wall
